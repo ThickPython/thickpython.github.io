@@ -1,0 +1,21 @@
+﻿
+
+.NewsArticle .article-header-box .image canvas
+{
+	position: absolute;
+
+	top: 50%;
+
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+.youtube-player
+{
+	max-width: 100%;
+}
+
+	.react-mobile .youtube-player
+	{
+		max-height: 50vh;
+	}
